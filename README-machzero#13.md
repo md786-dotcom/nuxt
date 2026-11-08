@@ -20,6 +20,10 @@ Custom requests are put through the scheduler. so it might cause race conditiion
 
 TanStack is a collection of software libraries and tools built for web development. internal, not part of public contract which can be changed without a break changing notice. 
 
+## Environment
+
+Mac Air M2 8GB RAM running on 26.6.2 (25G83)
+
 ## Working
 
 <NuxtLink> detects intent - means signals that the user is likely to click the link soon. for example - hover. 
